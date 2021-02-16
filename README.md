@@ -1,13 +1,7 @@
 ## Iakov Taranenko
 Hey, I'm Iakov, I am a high school student thats fascinated by machine learning. Most of my repositories are private but I'm working on making open sourced projects.
 
-<!-- I'll add this later
-### Contact me
-<a href="https://www.linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-<a href="https://github.com/IakovTaranenko"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
-<a href="https://gitlabs.com"> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"> </a>
-<a href="https://stackoverflow.com"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"> </a> 
--->
+https://iakovtaranenko.github.io/
 
 ### Information
 #### Proficient Languages
