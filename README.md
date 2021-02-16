@@ -10,7 +10,7 @@ Hey, I'm Iakov, I am a high school student thats fascinated by machine learning.
 -->
 
 ### Information
-#### Profficient Languages
+#### Proficient Languages
 <a href="https://github.com/IakovTaranenko/IakovTaranenko/blob/main/README.md"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </a>
 <a href="https://github.com/IakovTaranenko/IakovTaranenko/blob/main/README.md"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> </a>
 <a href="https://github.com/IakovTaranenko/IakovTaranenko/blob/main/README.md"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> </a>
