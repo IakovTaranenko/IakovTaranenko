@@ -1,7 +1,6 @@
 ## Iakov Taranenko
 Hey, I'm Iakov, I am a high school student thats fascinated by machine learning. Most of my repositories are private but I'm working on making open sourced projects.
 
-https://iakovtaranenko.github.io/
 
 ### Information
 #### Proficient Languages
