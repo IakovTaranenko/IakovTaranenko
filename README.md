@@ -25,4 +25,3 @@ Hey, I'm Iakov, I am a high school student thats fascinated by machine learning.
 
 ### Statistics
 <a href="https://github.com/IakovTaranenko/IakovTaranenko/blob/main/README.md"><img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IakovTaranenko&layout=compact&hide_border=true&theme=dark" /> </a> <br>
-<a href="https://github.com/IakovTaranenko/IakovTaranenko/blob/main/README.md"><img align="Left" alt="Iakov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IakovTaranenko&show_icons=true&hide_border=true&theme=dark" />
